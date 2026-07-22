@@ -1,2 +1,2 @@
 # CTF-Write-Ups
-writeups and reports of capture the flag hacks.
+Capture the Flag hacking write ups and PenTest Reports.
